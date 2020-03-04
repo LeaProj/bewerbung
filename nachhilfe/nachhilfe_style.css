@@ -1,0 +1,33 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(15,80,68);
+    font-size: 30px;
+}
+
+
+.site{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 0%;
+    border: 15px solid rgb(132,60,42);
+    background-image: url(sqPaper.png);
+}
+
+a {
+    font-style: italic;
+    color: red;
+    margin-left: 40%;
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.title {
+    color: white;
+    margin-left: 15%;
+    margin-top: 2%;
+    font-size: 40px;
+}
